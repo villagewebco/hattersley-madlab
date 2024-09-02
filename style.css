@@ -1,0 +1,30 @@
+/*{
+    color: red;
+}*/
+p{
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+}
+
+h1{
+    font-size: 90px;
+    font-family:fantasy;
+    color: #c44d85;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: #00cc00;
+}
+ul{
+    font-size: 30px;
+    color: #9900ff;
+}
+ol{
+    font-size: 30px;
+    color: #0066cc;
+}
+img{
+    border: 15px solid #c44d85;
+}
